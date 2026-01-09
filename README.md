@@ -1,4 +1,4 @@
-# 🌐 Devops Project – Static Website with Jenkins CI/CD
+# 🌐 Dev-ops Project – Static Website with Jenkins CI/CD
 
 This repository contains a **sample static website** developed using **HTML, CSS, and JavaScript**.  
 The project is used to demonstrate a **basic DevOps CI/CD workflow** by integrating **GitHub with Jenkins** for automated deployment.
